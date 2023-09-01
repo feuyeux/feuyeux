@@ -1,7 +1,7 @@
 
 |||
 |:--|:--|
-|![](./profile-3d-contrib/profile-green-animate.svg)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feuyeux&hide=html,css&&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feuyeux&hide=html,css&&langs_count=30&layout=pie)](https://github.com/anuraghazra/github-readme-stats)|![](./profile-3d-contrib/profile-green-animate.svg)|![](./profile-3d-contrib/profile-green-animate.svg)|
 
 
 |||
