@@ -54,6 +54,65 @@
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
+## 🗺️ Tech Stack Panorama
+
+A bird's-eye view of the languages, frameworks, and domains across [all my repositories](https://github.com/feuyeux?tab=repositories):
+
+```mermaid
+mindmap
+  root((Lu Han · feuyeux))
+    Languages
+      Java
+      Python
+      TypeScript · JavaScript
+      Rust
+      Go
+      C++ · Kotlin
+      Dart · Swift
+      Shell · PowerShell
+    AI Agent Ecosystem
+      Frameworks
+        LangGraph · LangChain
+        DSPy · PydanticAI
+        AutoGen · CrewAI
+        ADK · Parlant · Embabel
+        LlamaIndex · Llama Stack
+      Protocols
+        A2A · ACP · ANP · MCP
+      LLM Engineering
+        Context Engineering · Memory
+        Stream Resilience
+        Dify · LangFlow
+      ML · CV · Audio
+        ONNX Runtime · Triton
+        YOLOv10
+        Whisper · Edge-TTS
+    Polyglot Communication
+      gRPC in 12 languages
+      RSocket — Java · Go · Node · Rust
+      Kafka · Pulsar · MQTT
+      WebSocket · Camel
+    Java Enterprise
+      jax-rs2-guide I & II
+      Spring · Quarkus · Java EE
+      Drools · Easy Rules · LiteFlow · Camunda
+      Resilience · Retry · Cache
+      JDK 24 · 25 · Vector API
+      OpenTelemetry · Micrometer · Spark · Samza
+    Cloud Native & Service Mesh
+      ASM Best Practises
+      Proxyless gRPC · mesh-perf
+      Envoy Wasm — Rust · AssemblyScript
+      Docker · Kubernetes · Operator
+    Rust & Edge Native
+      iota-cockpit · iota-sympantos
+      Wasm · eBPF
+      endorphin · hello-fory · hello-ort
+    Apps & Cross-platform
+      Tauri — volant · mon-anniversaire
+      Flutter — alouette · korydallos
+```
+
 ## 🚀 Featured Projects
 
 <div align="center">
