@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/feuyeux.png" alt="Lu Han" width="120" height="120" style="border-radius:50%" />
+<img src="https://github.com/feuyeux.png" alt="Lu Han" width="120" height="120" />
 
 # Hi there, I'm Lu Han (feuyeux) 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Author+of+%22Java+RESTful+Web+Service%E5%AE%9E%E6%88%98%22;AI+Agent+Explorer+%C2%B7+LangGraph+%C2%B7+A2A+%C2%B7+MCP;Polyglot+Engineer+%C2%B7+15+years+on+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=640&lines=Author+of+%22Java+RESTful+Web+Service%E5%AE%9E%E6%88%98%22;AI+Agent+Explorer+%C2%B7+LangGraph+%C2%B7+A2A+%C2%B7+MCP;Polyglot+Engineer+%C2%B7+15%2B+Years+on+GitHub" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://github.com/feuyeux"><img src="https://komarev.com/ghpvc/?username=feuyeux&style=flat-square&color=blue" alt="Profile Views" /></a>
@@ -118,22 +118,40 @@ mindmap
 <div align="center">
 
   <a href="https://github.com/feuyeux/jax-rs2-guide-II">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=jax-rs2-guide-II&theme=transparent&hide_border=true" alt="jax-rs2-guide-II" width="350" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=jax-rs2-guide-II&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=jax-rs2-guide-II&theme=default&hide_border=true" alt="jax-rs2-guide-II" width="350" />
+    </picture>
   </a>
   <a href="https://github.com/feuyeux/jax-rs2-guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=jax-rs2-guide&theme=transparent&hide_border=true" alt="jax-rs2-guide" width="350" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=jax-rs2-guide&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=jax-rs2-guide&theme=default&hide_border=true" alt="jax-rs2-guide" width="350" />
+    </picture>
   </a>
   <a href="https://github.com/feuyeux/hello-grpc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=hello-grpc&theme=transparent&hide_border=true" alt="hello-grpc" width="350" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=hello-grpc&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=hello-grpc&theme=default&hide_border=true" alt="hello-grpc" width="350" />
+    </picture>
   </a>
   <a href="https://github.com/feuyeux/hello-langgraph">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=hello-langgraph&theme=transparent&hide_border=true" alt="hello-langgraph" width="350" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=hello-langgraph&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=hello-langgraph&theme=default&hide_border=true" alt="hello-langgraph" width="350" />
+    </picture>
   </a>
   <a href="https://github.com/feuyeux/asm-best-practises">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=asm-best-practises&theme=transparent&hide_border=true" alt="asm-best-practises" width="350" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=asm-best-practises&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=asm-best-practises&theme=default&hide_border=true" alt="asm-best-practises" width="350" />
+    </picture>
   </a>
   <a href="https://github.com/feuyeux/kio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=kio&theme=transparent&hide_border=true" alt="kio" width="350" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=kio&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=kio&theme=default&hide_border=true" alt="kio" width="350" />
+    </picture>
   </a>
 
 </div>
@@ -142,20 +160,40 @@ mindmap
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=feuyeux&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=feuyeux&theme=transparent&hide_border=true" alt="GitHub Streak" height="180px" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=feuyeux&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=feuyeux&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+    </picture>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=feuyeux&theme=dark&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=feuyeux&theme=default&hide_border=true" alt="GitHub Streak" height="180px" />
+    </picture>
+  </a>
 
 </div>
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feuyeux&hide=html,css&langs_count=30&layout=pie&theme=transparent&hide_border=true" alt="Top Langs" height="380px" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=feuyeux&hide=html,css&langs_count=12&layout=pie&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feuyeux&hide=html,css&langs_count=12&layout=pie&theme=default&hide_border=true" alt="Top Langs" height="340px" />
+    </picture>
+  </a>
 
 </div>
 
 <div align="center">
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=feuyeux&theme=github-compact&hide_border=true" alt="Activity Graph" width="100%" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=feuyeux&theme=github-dark&hide_border=true" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=feuyeux&theme=github-compact&hide_border=true" alt="Activity Graph" width="100%" />
+    </picture>
+  </a>
 
 </div>
 
@@ -163,7 +201,12 @@ mindmap
 
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feuyeux&row=2&column=10&theme=flat&no-frame=true" alt="GitHub Trophies" width="900px" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=feuyeux&row=2&column=10&theme=onedark&no-frame=true" />
+      <img src="https://github-profile-trophy.vercel.app/?username=feuyeux&row=2&column=10&theme=flat&no-frame=true" alt="GitHub Trophies" width="900px" />
+    </picture>
+  </a>
 
 </div>
 
