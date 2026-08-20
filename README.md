@@ -18,27 +18,29 @@
 
 - 📖 Author of **《Java RESTful Web Service 实战》** (1st & 2nd ed.) — companion repos [jax-rs2-guide](https://github.com/feuyeux/jax-rs2-guide) & [jax-rs2-guide-II](https://github.com/feuyeux/jax-rs2-guide-II) with 350+ stars
 - 🤖 Currently deep-diving the **AI Agent ecosystem** — LangGraph, DSPy, PydanticAI, AutoGen, CrewAI, and agent protocols **A2A / ACP / ANP / MCP**
-- 🧪 Maintainer of the **hello-\*** series: 99 hands-on verification repos covering frameworks, protocols and runtimes — e.g. [hello-grpc](https://github.com/feuyeux/hello-grpc) demonstrates gRPC in 12 programming languages
-- 🔌 Polyglot reactive communication practitioner — 7-repo [RSocket](https://github.com/feuyeux/hello-rsocket) series across Java / Go / Node.js / Rust
-- 🦀 Building **edge-native systems in Rust** — the [iota-\*](https://github.com/feuyeux/iota-cockpit) series
+- 🧪 Maintainer of the **hello-\*** series: 100 hands-on verification repos covering frameworks, protocols and runtimes — [hello-grpc](https://github.com/feuyeux/hello-grpc) implements gRPC in 12 programming languages, [hello-websocket](https://github.com/feuyeux/hello-websocket) does the same for WebSocket
+- 🔌 Polyglot reactive communication practitioner — 9-repo [RSocket](https://github.com/feuyeux/hello-rsocket) series across Java / Go / Node.js / Rust, including token-based security variants
+- 🦀 Building **edge-native systems in Rust** — the iota-\* series ([iota-cockpit](https://github.com/feuyeux/iota-cockpit), [iota-sympantos](https://github.com/feuyeux/iota-sympantos), [iota](https://github.com/feuyeux/iota))
+- 🎧 Exploring **audio & acoustics on device** — [hello-acoustics](https://github.com/feuyeux/hello-acoustics), [hello-audio-stream](https://github.com/feuyeux/hello-audio-stream), [hello-whisper](https://github.com/feuyeux/hello-whisper), [hello-edge-tts](https://github.com/feuyeux/hello-edge-tts)
 - 📝 Writing on [Alibaba Cloud Community](https://community.alibabacloud.com/users/5319351068736291) | Service Mesh best practices ([asm-best-practises](https://github.com/feuyeux/asm-best-practises))
-- 📍 Beijing, China · on GitHub since 2011 · 147 original repos and counting
+- 📍 Beijing, China · on GitHub since 2011 · 149 public original repos and counting
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages** (ordered by repo count across public original repos)
 
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
 </p>
 
 **Frameworks & Platforms**
@@ -62,42 +64,49 @@ A bird's-eye view of the languages, frameworks, and domains across [all my repos
 mindmap
   root((Lu Han · feuyeux))
     Languages
-      Java
-      Python
-      TypeScript · JavaScript
-      Rust
-      Go
-      C++ · Kotlin
-      Dart · Swift
-      Shell · PowerShell
+      Java · 60 repos
+      Python · 27
+      Shell · 17
+      Rust · 9
+      TypeScript · JavaScript · 12
+      Go · C++ · Dart
+      Kotlin · Swift · PowerShell
     AI Agent Ecosystem
       Frameworks
         LangGraph · LangChain
         DSPy · PydanticAI
         AutoGen · CrewAI
         ADK · Parlant · Embabel
-        LlamaIndex · Llama Stack
+        LlamaIndex · Llama Stack · OxyGent
       Protocols
         A2A · ACP · ANP · MCP
+        aloha-a2a · hello-a2a · hello-mcp
+      Coding Agents
+        hello-claude-code · hello-hermes
+        hello-skills · agent-study
       LLM Engineering
         Context Engineering · Memory
-        Stream Resilience
+        Stream Resilience Lab
         Dify · LangFlow
+        MiniMax — minimax-mate · MiniMax-H3-macOS
       ML · CV · Audio
         ONNX Runtime · Triton
         YOLOv10
-        Whisper · Edge-TTS
+        Whisper · Edge-TTS · ChatTTS
+        Acoustics · Audio Stream over WebSocket
     Polyglot Communication
       gRPC in 12 languages
+      WebSocket in 12 languages
       RSocket — Java · Go · Node · Rust
       Kafka · Pulsar · MQTT
-      WebSocket · Camel
+      Camel · EventBus · Queue
     Java Enterprise
       jax-rs2-guide I & II
       Spring · Quarkus · Java EE
       Drools · Easy Rules · LiteFlow · Camunda
-      Resilience · Retry · Cache
-      JDK 24 · 25 · Vector API
+      Resilience · Retry · Cache · Logging
+      JDK 24 · 25 · Vector API · Native Image
+      Serialization — Fory · Avro · JSON · XML
       OpenTelemetry · Micrometer · Spark · Samza
     Cloud Native & Service Mesh
       ASM Best Practises
@@ -105,12 +114,13 @@ mindmap
       Envoy Wasm — Rust · AssemblyScript
       Docker · Kubernetes · Operator
     Rust & Edge Native
-      iota-cockpit · iota-sympantos
+      iota-cockpit · iota-sympantos · iota
       Wasm · eBPF
-      endorphin · hello-fory · hello-ort
+      endorphin · hello-ort
     Apps & Cross-platform
       Tauri — volant · mon-anniversaire
       Flutter — alouette · korydallos
+      Color science — colors · color-rosetta
 ```
 
 ## 🚀 Featured Projects
@@ -139,6 +149,18 @@ mindmap
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=hello-langgraph&theme=github_dark&hide_border=true" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=hello-langgraph&theme=default&hide_border=true" alt="hello-langgraph" width="350" />
+    </picture>
+  </a>
+  <a href="https://github.com/feuyeux/hello-langchain">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=hello-langchain&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=hello-langchain&theme=default&hide_border=true" alt="hello-langchain" width="350" />
+    </picture>
+  </a>
+  <a href="https://github.com/feuyeux/hello-rsocket">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=hello-rsocket&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=feuyeux&repo=hello-rsocket&theme=default&hide_border=true" alt="hello-rsocket" width="350" />
     </picture>
   </a>
   <a href="https://github.com/feuyeux/asm-best-practises">
