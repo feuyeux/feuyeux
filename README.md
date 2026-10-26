@@ -17,22 +17,23 @@
 ## 👨‍💻 About Me
 
 - 📖 Author of **《Java RESTful Web Service 实战》** (1st & 2nd ed.) — companion repos [jax-rs2-guide](https://github.com/feuyeux/jax-rs2-guide), [jax-rs2-guide-II](https://github.com/feuyeux/jax-rs2-guide-II) and [jax-rs2-atup](https://github.com/feuyeux/jax-rs2-atup), 380+ stars combined
-- 🤖 Deep-diving the **AI Agent ecosystem** across 33 repos — LangChain / LangGraph / LlamaIndex / DSPy / PydanticAI / AutoGen / CrewAI / ADK / Parlant / Embabel / OxyGent, the agent protocols **A2A · ACP · ANP · MCP**, and coding-agent labs [hello-claude-code](https://github.com/feuyeux/hello-claude-code), [hello-skills](https://github.com/feuyeux/hello-skills), [hello-hermes](https://github.com/feuyeux/hello-hermes)
+- 🤖 Deep-diving the **AI Agent ecosystem** across 34 repos — LangChain / LangGraph / LlamaIndex / DSPy / PydanticAI / AutoGen / CrewAI / ADK / Parlant / Embabel / OxyGent, the agent protocols **A2A · ACP · ANP · MCP**, and coding-agent labs [hello-claude-code](https://github.com/feuyeux/hello-claude-code), [hello-skills](https://github.com/feuyeux/hello-skills), [hello-hermes](https://github.com/feuyeux/hello-hermes), [explorateur](https://github.com/feuyeux/explorateur)
 - 🧪 Maintainer of the **hello-\*** series — 99 runnable verification repos (of 149 public originals) covering frameworks, protocols and runtimes
 - 🌐 **Polyglot communication** practitioner — [hello-grpc](https://github.com/feuyeux/hello-grpc) implements gRPC in 12 programming languages, [hello-websocket](https://github.com/feuyeux/hello-websocket) does the same for WebSocket, plus a 9-repo [RSocket](https://github.com/feuyeux/hello-rsocket) series across Java / Go / Node.js / Rust with token-based security variants
 - 🦀 Building **systems in Rust** — [iota-sympantos](https://github.com/xp-iota/iota-sympantos) (see Current Focus), [iota-cockpit](https://github.com/feuyeux/iota-cockpit), [endorphin](https://github.com/feuyeux/endorphin), [hello-fory](https://github.com/feuyeux/hello-fory), [hello-ort](https://github.com/feuyeux/hello-ort), [rust-wasm-4-envoy](https://github.com/feuyeux/rust-wasm-4-envoy)
 - 🎧 Exploring **audio & acoustics on device** — [hello-acoustics](https://github.com/feuyeux/hello-acoustics), [hello-audio-stream](https://github.com/feuyeux/hello-audio-stream), [hello-whisper](https://github.com/feuyeux/hello-whisper), [hello-edge-tts](https://github.com/feuyeux/hello-edge-tts), [hello-chat-tts](https://github.com/feuyeux/hello-chat-tts)
 - ☁️ **Cloud native & Service Mesh** — [asm-best-practises](https://github.com/feuyeux/asm-best-practises), [hello-servicemesh-grpc](https://github.com/feuyeux/hello-servicemesh-grpc), [grpc_proxyless](https://github.com/feuyeux/grpc_proxyless), [mesh-perf](https://github.com/feuyeux/mesh-perf), Envoy Wasm filters in Rust and AssemblyScript
-- 🎨 **Cross-platform apps & creative coding** — Tauri ([volant](https://github.com/feuyeux/volant), [mon-anniversaire](https://github.com/feuyeux/mon-anniversaire)), Flutter ([alouette](https://github.com/feuyeux/alouette), [korydallos](https://github.com/feuyeux/korydallos), [hello-app](https://github.com/feuyeux/hello-app)), color science ([colors](https://github.com/feuyeux/colors), [color-rosetta](https://github.com/feuyeux/color-rosetta))
+- 🎨 **Cross-platform apps & creative coding** — Tauri ([volant](https://github.com/feuyeux/volant), [mon-anniversaire](https://github.com/feuyeux/mon-anniversaire)), Flutter ([alouette](https://github.com/feuyeux/alouette), [hello-app](https://github.com/feuyeux/hello-app)), color science ([colors](https://github.com/feuyeux/colors), [color-rosetta](https://github.com/feuyeux/color-rosetta))
 - 📝 Writing on [Alibaba Cloud Community](https://community.alibabacloud.com/users/5319351068736291)
-- 📍 Beijing, China · on GitHub since 2011 · 149 public original repos · 494 stars earned
+- 📍 Beijing, China · on GitHub since 2011 · 149 public original repos · 498 stars earned
 
 ## 🔭 Current Focus
 
-My most recent work lives in the [**xp-iota**](https://github.com/xp-iota) organisation:
+My most recent work lives in the [**xp-iota**](https://github.com/xp-iota) organisation — three public projects:
 
 - 🛰️ **[iota-sympantos](https://github.com/xp-iota/iota-sympantos)** — a cross-platform **Rust** CLI/TUI that routes prompts to five ACP backends (claude-code / codex / gemini / hermes / opencode) on top of one shared memory, skills and context layer. SQLite-backed cross-backend memory (SHA-256 dedup, FTS5, 6 recall buckets), YAML-declared deterministic skills dispatched by a Rust engine, `iota-fun` snippet runner for 7 languages, a built-in Kanban with event sourcing for long-running agent tasks, a loopback-only warm daemon with owner-only token auth, and a ratatui inline TUI. ~1.4 MB of Rust plus a TypeScript surface.
-- 📚 **[hello-olleh](https://github.com/xp-iota/hello-olleh)** — a source-reading and comparison workspace for AI coding CLIs. Upstream snapshots of claude-code, codex, gemini-cli, opencode, hermes-agent, nanobot, cordis and deepseek-harness, paired with Markdown analyses of their startup paths, agent scheduling, tool systems, state management and extension mechanisms — plus a streaming-agent resilience study across all snapshots.
+- 📚 **[hello-olleh](https://github.com/xp-iota/hello-olleh)** — a source-reading and comparison workspace for AI coding CLIs. Upstream snapshots of ten projects — claude-code, codex, gemini-cli, opencode, pi, openclaw, hermes-agent, nanobot, cordis and deepseek-harness — paired with Markdown analyses of their startup paths, agent scheduling, tool systems, state management and extension mechanisms, plus a streaming-agent resilience study across six snapshots, a harness-engineering framework, an OKF v0.2 knowledge pack and two runnable curricula (a 12-module DeepSeek Harness course and its 12-module Python counterpart).
+- 🖥️ **[dsh-web](https://github.com/xp-iota/dsh-web)** — a production-grade web front end for the DeepSeek Harness: a thin, framework-free `node:http` + SSE server over `@deepseek-ai/dsh`, a React 19 + Vite 6 client with a dual-tab conversation / trace-timeline UI, one codebase that boots on either Node.js or Bun, and a single-container single-process deployment. Read-only by design — five tools, with no file, shell or subprocess access.
 
 **Merged upstream contributions** — [parlant#634](https://github.com/emcie-co/parlant/pull/634) ZhiPuAI NLP adapter · [awesome-grpc#198](https://github.com/grpc-ecosystem/awesome-grpc/pull/198) Hello gRPC samples · [Starship#180](https://github.com/tricorder-observability/Starship/pull/180) graceful streaming reconnect · [flagger#798](https://github.com/fluxcd/flagger/pull/798) Flagger on Alibaba Cloud ASM · [piano_teacher#1](https://github.com/Z0nghe/piano_teacher/pull/1) portable launcher scripts
 
@@ -42,19 +43,19 @@ How the [149 public original repositories](https://github.com/feuyeux?tab=reposi
 
 | Domain | Repos | Representative work |
 | --- | :---: | --- |
-| AI Agents & LLM Engineering | 33 | [hello-langchain](https://github.com/feuyeux/hello-langchain) · [hello-langgraph](https://github.com/feuyeux/hello-langgraph) · [hello-mcp](https://github.com/feuyeux/hello-mcp) · [aloha-a2a](https://github.com/feuyeux/aloha-a2a) · [stream-resilience-lab](https://github.com/feuyeux/stream-resilience-lab) |
+| AI Agents & LLM Engineering | 34 | [hello-langchain](https://github.com/feuyeux/hello-langchain) · [hello-langgraph](https://github.com/feuyeux/hello-langgraph) · [hello-mcp](https://github.com/feuyeux/hello-mcp) · [aloha-a2a](https://github.com/feuyeux/aloha-a2a) · [explorateur](https://github.com/feuyeux/explorateur) · [stream-resilience-lab](https://github.com/feuyeux/stream-resilience-lab) |
 | Polyglot RPC & Messaging | 19 | [hello-grpc](https://github.com/feuyeux/hello-grpc) · [hello-websocket](https://github.com/feuyeux/hello-websocket) · [hello-rsocket](https://github.com/feuyeux/hello-rsocket) · [hello-kafka](https://github.com/feuyeux/hello-kafka) · [hello-pulsar](https://github.com/feuyeux/hello-pulsar) |
-| Apps & Creative Coding | 18 | [volant](https://github.com/feuyeux/volant) · [alouette](https://github.com/feuyeux/alouette) · [ins-outs](https://github.com/feuyeux/ins-outs) · [colors](https://github.com/feuyeux/colors) · [lusine-a-reves](https://github.com/feuyeux/lusine-a-reves) |
+| Apps & Creative Coding | 17 | [volant](https://github.com/feuyeux/volant) · [alouette](https://github.com/feuyeux/alouette) · [ins-outs](https://github.com/feuyeux/ins-outs) · [colors](https://github.com/feuyeux/colors) · [lusine-a-reves](https://github.com/feuyeux/lusine-a-reves) |
 | Cloud Native & Service Mesh | 13 | [asm-best-practises](https://github.com/feuyeux/asm-best-practises) · [mesh-perf](https://github.com/feuyeux/mesh-perf) · [hello-operator](https://github.com/feuyeux/hello-operator) · [hello-wasm-ebpf](https://github.com/feuyeux/hello-wasm-ebpf) |
 | ML · CV · Audio | 12 | [hello-onnx](https://github.com/feuyeux/hello-onnx) · [hello-triton](https://github.com/feuyeux/hello-triton) · [hello-yolov10](https://github.com/feuyeux/hello-yolov10) · [hello-whisper](https://github.com/feuyeux/hello-whisper) |
-| Rust Systems | 6 | [iota-cockpit](https://github.com/feuyeux/iota-cockpit) · [endorphin](https://github.com/feuyeux/endorphin) · [hello-fory](https://github.com/feuyeux/hello-fory) · [hello-rsocket-rust](https://github.com/feuyeux/hello-rsocket-rust) |
+| Rust Systems | 6 | [iota-cockpit](https://github.com/feuyeux/iota-cockpit) · [endorphin](https://github.com/feuyeux/endorphin) · [hello-ort](https://github.com/feuyeux/hello-ort) · [hello-fory](https://github.com/feuyeux/hello-fory) · [hello-rsocket-rust](https://github.com/feuyeux/hello-rsocket-rust) |
 | Book Companions | 3 | [jax-rs2-guide](https://github.com/feuyeux/jax-rs2-guide) · [jax-rs2-guide-II](https://github.com/feuyeux/jax-rs2-guide-II) · [jax-rs2-atup](https://github.com/feuyeux/jax-rs2-atup) |
 
 The remainder is Java enterprise and JVM engineering — rules engines and workflow ([hello-drools](https://github.com/feuyeux/hello-drools), [hello-easy-rules](https://github.com/feuyeux/hello-easy-rules), [hello-liteflow](https://github.com/feuyeux/hello-liteflow), [hello-camunda](https://github.com/feuyeux/hello-camunda)), resilience and observability ([hello-resilience](https://github.com/feuyeux/hello-resilience), [hello-retry](https://github.com/feuyeux/hello-retry), [hello-opentelemetry](https://github.com/feuyeux/hello-opentelemetry), [hello-micrometer](https://github.com/feuyeux/hello-micrometer)), serialization ([hello-serialized](https://github.com/feuyeux/hello-serialized), [hello-avro](https://github.com/feuyeux/hello-avro), [hello-json](https://github.com/feuyeux/hello-json), [hello-xml](https://github.com/feuyeux/hello-xml)) and modern JVM features ([hello-jdk24](https://github.com/feuyeux/hello-jdk24), [hello-jdk25](https://github.com/feuyeux/hello-jdk25), [hello-vector-api](https://github.com/feuyeux/hello-vector-api), [hello-java-native](https://github.com/feuyeux/hello-java-native)).
 
 ## 🛠️ Tech Stack
 
-**Languages** — badge order follows the primary-language count of my public original repos: Java 52 · Python 26 · Shell 13 · TypeScript 7 · JavaScript 6 · Rust 6 · Go 3 · C++ 3 · Dart 3 · HTML 3 · Jupyter 2 · Kotlin / Swift / PowerShell / CSS 1 each.
+**Languages** — badge order follows the primary-language count of my public original repos: Java 52 · Python 28 · Shell 13 · TypeScript 7 · JavaScript 6 · Rust 5 · C++ 4 · Go 3 · HTML 3 · Dart 2 · Jupyter 2 · Kotlin / Swift / CSS 1 each.
 
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -65,6 +66,7 @@ The remainder is Java enterprise and JVM engineering — rules engines and workf
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
@@ -93,12 +95,13 @@ mindmap
   root((Lu Han · feuyeux))
     Languages
       Java · 52 repos
-      Python · 26
+      Python · 28
       Shell · 13
       TypeScript · 7 · JavaScript · 6
-      Rust · 6
-      Go · C++ · Dart · 3 each
-      Kotlin · Swift · PowerShell
+      Rust · 5
+      C++ · 4 · Go · 3 · HTML · 3
+      Dart · 2 · Jupyter · 2
+      Kotlin · Swift · CSS · 1 each
     AI Agent Ecosystem
       Frameworks
         LangGraph · LangChain
@@ -112,6 +115,8 @@ mindmap
       Coding Agents
         iota-sympantos — 5 ACP backends
         hello-olleh — CLI source analysis
+        dsh-web — harness web front end
+        explorateur — self-evolution engines
         hello-claude-code · hello-hermes
         hello-skills · agent-study
       LLM Engineering
@@ -149,7 +154,7 @@ mindmap
       Wasm · eBPF
     Apps · Cross-platform
       Tauri — volant · mon-anniversaire
-      Flutter — alouette · korydallos · hello-app
+      Flutter — alouette · hello-app
       Web games — ins-outs · colosseum · lusine-a-reves
       Color science — colors · color-rosetta
 ```
@@ -170,6 +175,12 @@ mindmap
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xp-iota&repo=hello-olleh&theme=github_dark&hide_border=true" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=xp-iota&repo=hello-olleh&theme=default&hide_border=true" alt="hello-olleh" width="350" />
+    </picture>
+  </a>
+  <a href="https://github.com/xp-iota/dsh-web">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xp-iota&repo=dsh-web&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xp-iota&repo=dsh-web&theme=default&hide_border=true" alt="dsh-web" width="350" />
     </picture>
   </a>
   <a href="https://github.com/feuyeux/jax-rs2-guide-II">
@@ -283,4 +294,4 @@ mindmap
   <a href="https://community.alibabacloud.com/users/5319351068736291"><img src="https://img.shields.io/badge/Blog-Alibaba_Cloud_Community-%23FF6A00.svg?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Blog" /></a>
 </p>
 
-<sub>Repository figures snapshot: 2026-09-15 — 168 public repos on this account = 149 originals + 19 forks, 494 stars, 288 followers; plus 2 public repos in the <a href="https://github.com/xp-iota">xp-iota</a> org and 5 merged upstream pull requests. Counts are derived from the GitHub API, primary language per repo.</sub>
+<sub>Repository figures snapshot: 2026-10-26 — 170 public repos on this account = 149 originals + 21 forks, 498 stars (495 on originals), 287 followers; plus 3 public repos in the <a href="https://github.com/xp-iota">xp-iota</a> org and 5 merged upstream pull requests. Counts are derived from the GitHub API, primary language per repo.</sub>
